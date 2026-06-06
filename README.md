@@ -64,7 +64,7 @@ playwright-ecommerce-automation/
 ### Authentication
 
 * User Login
-* Invalid Login Validation
+* Storagestate management
 * User Logout
 
 ### Product Management
