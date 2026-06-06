@@ -8,4 +8,6 @@ test.describe('Homepage Tests', () => {
         await homePage.navigateToHomePage();
         await homePage.verifyTitles();
     });
+
+    test()
 });
